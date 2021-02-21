@@ -1,0 +1,9 @@
+global:
+  english: English
+  french: Français
+  description: >-
+     Un blog sur la programmation et le développement de jeux vidéos
+home:
+  pinned: Épinglé
+post:
+  updated: Mis à jour

@@ -1,0 +1,9 @@
+global:
+  english: English
+  french: Français
+  description: >-
+     A blog about programming and game development
+home:
+  pinned: Pinned
+post:
+  updated: Updated
