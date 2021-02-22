@@ -7,7 +7,7 @@ pin: true
 
 ## Introduction
 
-![Mon Avatar]({{ site.avatar | relative_url }}){: width="200" .round-img}
+![My Avatar]({{ site.avatar | relative_url }}){: width="200" .round-img}
 _I don't really have any picture of me to show (Credits : [Milo Kalita](https://twitter.com/MiloKalita))..._
 
 Greetings And welcome to The Aarnold Project !
