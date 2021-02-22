@@ -35,10 +35,10 @@ layout: default
 
           {% if site.lang == "en" %}
             {% capture frurl %}{{ site.baseurl_root }}/fr{{ page.url }}{% endcapture %}
-            <a href="{{ frurl }}" >Read in French</a>
+            <a href="{{ frurl }}" >Lire en Français</a>
           {% elsif site.lang == "fr" %}
             {% capture enurl %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-            <a href="{{ enurl }}" >Lire en Anglais</a>
+            <a href="{{ enurl }}" >Read in English</a>
           {% endif %}
 
           <!-- page views -->
