@@ -4,7 +4,8 @@ languages: ["en", "fr"]
 default_locale_in_subfolder: false
 timezone: Europe/Paris
 title: The Aarnold Project
-tagline: A blog about programming
+tagline: >-
+  A blog about programming, game development, game engines, Modern C++ and more
 description: >-
   A blog about programming, mainly game development and Modern C++.
 url: 'https://aarnoldgad.github.io'
