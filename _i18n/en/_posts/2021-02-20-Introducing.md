@@ -2,7 +2,6 @@
 title: Introducing The Aarnold Project
 date: 2021-02-21 12:00:00 +0200
 category: News
-pin: true
 ---
 
 ## Introduction
